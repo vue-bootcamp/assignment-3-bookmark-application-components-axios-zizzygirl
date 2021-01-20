@@ -323,12 +323,12 @@ button.btn-primary:active {
 }
 
 button.btn-warning {
-  background-color: #f5e20c;
+  background-color: #c569d8;
   color: #000;
 }
 
 button.btn-warning:hover {
-  background-color: #f9ee6e;
+  background-color: #6ef0f9;
   color: #000;
 }
 
@@ -373,12 +373,12 @@ button.btn-danger {
 }
 
 button.btn-danger:hover {
-  background-color: #d27272;
+  background-color: #db2a42;
   color: #fff;
 }
 
 button.btn-danger:active {
-  background-color: #df9898;
+  background-color: #87a3e0;
   color: #fff;
 }
 
@@ -420,7 +420,7 @@ select {
 input {
   outline: none;
   padding: 5px 10px;
-  border: 1px solid #324354;
+  border: 1px solid #4c759e;
 }
 
 textarea {
@@ -442,10 +442,10 @@ header {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #324354;
+  background-color: #b377cf;
   color: #fff;
   font-size: 20px;
-  border-bottom: 2px solid #222b34;
+  border-bottom: 2px solid #943684;
 }
 
 .container {
